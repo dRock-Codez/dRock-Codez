@@ -42,8 +42,9 @@ I am a 300-level Software Engineering student at **Babcock University**. I build
 
 ## 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dRock-Codez&show_icons=true&theme=tokyonight" alt="Uzoma's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dRock-Codez&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dRock-Codez&show_icons=true&theme=tokyonight&hide_border=true" alt="Uzoma's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dRock-Codez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
